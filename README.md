@@ -8,14 +8,15 @@
 
 ## 👨‍💻 Overview
 
-This repository showcases Exploratory Data Analysis (EDA) projects on real-world datasets as part of a Data Science internship.
+This project explores Netflix’s content library to uncover patterns in:
 
-The goal is to extract meaningful insights using:
+* 🎬 Movies vs TV Shows distribution
+* 📅 Content growth over time
+* 🎭 Popular genres
+* ⏱️ Runtime patterns
 
-* Data cleaning & preprocessing
-* Statistical analysis
-* Data visualization
-* Insight generation
+The goal is to transform raw data into meaningful insights using Python-based data analysis.
+
 
 ---
 
