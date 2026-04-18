@@ -1,4 +1,8 @@
 # 📊 Data Science EDA Portfolio
+# 🎬 Netflix Data Analysis (EDA)
+
+📊 Exploratory Data Analysis on Netflix Movies & TV Shows dataset  
+📈 Trends, genres, and content growth insights
 
 ### Exploratory Data Analysis on Real-World Datasets
 
