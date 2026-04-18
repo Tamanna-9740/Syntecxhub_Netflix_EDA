@@ -15,7 +15,7 @@ The goal is to extract meaningful insights using:
 
 ---
 
-# 🎬 Project 2: Netflix Content Analysis
+# 🎬 Project : Netflix Content Analysis
 
 ## 📌 Objective
 
